@@ -55,7 +55,7 @@ DevOps & Tools:
 - IntelliJ IDEA
 - Maven
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -67,8 +67,6 @@ DevOps & Tools:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=metehansargin&theme=tokyonight" />
 </p>
-
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg" />
