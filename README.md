@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Metehan Sargın</h1>
+<p align="center">
+Backend Developer • Java & Spring Boot • Microservices Enthusiast
+</p>
 
-<!--
-**metehansargin/metehansargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🇹🇷 Turkey
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 Currently building **Spring Boot Microservices**
+- 🚀 Focused on **Scalable Backend Architectures**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, RabbitMQ, Redis**
+- 📫 Contact: **msargin1986@gmail.com**
+- 🌐 Portfolio: https://vercel.com/metehans-projects-a3bc76ff/metehan-sargin-site
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/metehansargin/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,postgres,redis,rabbitmq,elasticsearch,git,postman,linux,idea,maven" />
+</p>
+
+Backend & Architecture:
+- Java
+- Spring Boot
+- RESTful APIs
+- JWT Authentication
+- Microservices
+- RabbitMQ (FIFO / LIFO logic)
+- Redis Caching
+  
+Database:
+- MySQL
+- PostgreSQL
+- MongoDB
+
+DevOps & Tools:
+- Docker
+- Git
+- IntelliJ IDEA
+- Maven
+
+---
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=metehansargin&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=metehansargin&theme=tokyonight" />
+</p>
+
+![snake gif](https://github.com/metehansargin/metehansargin/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg">
+</picture>
