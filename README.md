@@ -68,10 +68,8 @@ DevOps & Tools:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=metehansargin&theme=tokyonight" />
 </p>
 
-![snake gif](https://github.com/metehansargin/metehansargin/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+<img src="https://raw.githubusercontent.com/metehansargin/metehansargin/output/github-contribution-grid-snake.svg" />
+</p>
