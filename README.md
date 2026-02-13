@@ -7,8 +7,6 @@ Backend Developer • Java & Spring Boot • Microservices Enthusiast
 🇹🇷 Turkey
 </p>
 
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **Spring Boot Microservices**
@@ -17,8 +15,6 @@ Backend Developer • Java & Spring Boot • Microservices Enthusiast
 - 📫 Contact: **msargin1986@gmail.com**
 - 🌐 Portfolio: https://vercel.com/metehans-projects-a3bc76ff/metehan-sargin-site
 
----
-
 ### 🌐 Connect With Me
 
 <p>
@@ -26,8 +22,6 @@ Backend Developer • Java & Spring Boot • Microservices Enthusiast
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
-
----
 
 ### 🛠 Tech Stack
 
@@ -54,11 +48,6 @@ DevOps & Tools:
 - Git
 - IntelliJ IDEA
 - Maven
-
-
-
-## 📊 GitHub Statistics
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=metehansargin&theme=tokyonight&hide_border=true" />
