@@ -26,7 +26,7 @@ Backend Developer • Java & Spring Boot • Microservices Enthusiast
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,postgres,redis,rabbitmq,elasticsearch,git,postman,linux,idea,maven" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,postgres,redis,rabbitmq,git,postman,maven" />
 </p>
 
 Backend & Architecture:
